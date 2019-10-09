@@ -103,3 +103,7 @@ git pull upstream master --rebase
 - [What is the difference between Controllers and Services in Node REST API’s?](https://www.coreycleary.me/what-is-the-difference-between-controllers-and-services-in-node-rest-apis/)
 - [Why should you separate Controllers from Services in Node REST API’s?](https://www.coreycleary.me/why-should-you-separate-controllers-from-services-in-node-rest-apis/)
 - [RESTful API Design - Step by step guide](https://hackernoon.com/restful-api-design-step-by-step-guide-2f2c9f9fcdbf)
+
+## Quan Bui's version of Express Training
+  - Use ExpressJS, NodeJS for RESTful API 
+  - Use Handlebars as view template
