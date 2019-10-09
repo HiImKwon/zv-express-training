@@ -106,4 +106,5 @@ git pull upstream master --rebase
 
 ## Quan Bui's version of Express Training
   - Use ExpressJS, NodeJS for RESTful API 
+  - Use Nodemon as server listener 
   - Use Handlebars as view template
